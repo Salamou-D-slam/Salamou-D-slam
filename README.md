@@ -6,7 +6,7 @@ Je conçois des applications web complètes, de la base de données à l’inter
 ## 🛠 Compétences
 - Compétences principales : Python / Flask, API REST, PostgresSQL
 
-- Compétences complémentaires : Node.js / Express, HTML, CSS, JavaScript, Bootstrap, Jinja2, PostgreSQL, MongoDB, SQLAlchemy, génération de PDF automatique, Docker, Authentification, Gestion de rôles, CRUD.
+- Compétences complémentaires : Node.js / Express, HTML, CSS, JavaScript, Bootstrap, Jinja2, MongoDB, SQLAlchemy, génération de PDF automatique, Docker, Authentification, Gestion de rôles, CRUD.
 
 ## 💻 Projets récents
 - Projet Etudiant: Application de billetterie JO 2024 (non official) avec Python/Flask
