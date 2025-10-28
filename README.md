@@ -13,4 +13,5 @@ Je conçois des applications web complètes, de la base de données à l’inter
 - Projet Etudiant: Application de visite de parc animalier avec NodeJS (Express.js)
 
 ## 📫 Contact
-[Mail](islamderrouiche@gmail.com) | [LinkedIn](https://www.linkedin.com/in/islam-derrouiche-7a69a8368/) | [Malt](https://www.malt.fr/profile/islamderrouiche1)
+Mail : islamderrouiche@gmail.com
+[LinkedIn](https://www.linkedin.com/in/islam-derrouiche-7a69a8368/) | [Malt](https://www.malt.fr/profile/islamderrouiche1)
