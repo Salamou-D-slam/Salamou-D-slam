@@ -1,16 +1,18 @@
-## Hi there 👋
+# Salut, je suis Islam 👋
 
-<!--
-**Salamou-D-slam/Salamou-D-slam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis développeur web junior spécialisé en **Python / Flask**.  
+Je conçois des applications web complètes, de la base de données à l’interface utilisateur.
 
-Here are some ideas to get you started:
+## 🛠 Compétences
+- Compétences principales : Python / Flask, API REST, PostgresSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Compétences complémentaires : Node.js / Express, HTML, CSS, JavaScript, Bootstrap, Jinja2, PostgreSQL, MongoDB, SQLAlchemy, génération de PDF automatique, Docker, Authentification, Gestion de rôles, CRUD.
+
+## 💻 Projets récents
+- Projet Etudiant: Application de billetterie JO 2024 (non official) avec Python/Flask
+- Projet Etudiant: Application de visite de parc animalier avec NodeJS (Express.js)
+
+## 📫 Contact
+[Mail](islamderrouiche@gmail.com)
+[Malt]([ton-lien-malt](https://www.malt.fr/profile/islamderrouiche1))
+[LinkedIn]([ton-lien-linkedin](https://www.linkedin.com/in/islam-derrouiche-7a69a8368/))
